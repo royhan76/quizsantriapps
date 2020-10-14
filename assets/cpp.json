@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Kata قَرَأَ  termasuk …………………….. ?",
+        "2": "Kalimat قَرَأْتَ  termasuk ………………….. ?",
+        "3": "فِعِلْ  dibagi menjadi …………………………. ?",
+        "4": "كِتَابٌ  termasuk ………………………. ?",
+        "5": " Jumlah fi’liyah terdiri dari ………………….kalimat",
+        "6": "Kata yang tersusun dari fi’il dan fa’il dinamakan ………………………. ?",
+        "7": "Jumlah ismiyah terdiri dari…………………………….?",
+        "8": "المَدْرَسَةُ جَمِيْلٌ seharusnya……………………….?",
+        "9": "Maf’ul bih terkena sasaran pekerjaan…………………?",
+        "10": "Maf’ul bih adalah isim yang di…………………………?"
+    },
+    {
+        "1": {
+            "a": "Fi'il",
+            "b": "Isim",
+            "c": "Maf'ul",
+            "d": "Maf'ul Bih"
+        },
+        "2": {
+            "a": "فِعِلْ مَاضِ",
+            "b": "فِعِلْ مُضَارِعْ",
+            "c": "فِعِلِ اَمَرْ",
+            "d": "Semua salah"
+        },
+        "3": {
+            "a": "satu",
+            "b": "dua",
+            "c": "tiga",
+            "d": "empat"
+        },
+        "4": {
+            "a": "اِسِمْ",
+            "b": "فِعِلْ",
+            "c": "خ ُرُفْ",
+            "d": "اَمَرْ"
+        },
+        "5": {
+            "a": "dua",
+            "b": "tiga",
+            "c": "empat",
+            "d": "lima"
+        },
+        "6": {
+            "a": "Jumlah fi’liyah",
+            "b": "Jumlah ismiyah",
+            "c": " Jumlah mufidah",
+            "d": "Jumlah kalim"
+        },
+        "7": {
+            "a": "Mubtada’ dan khobar",
+            "b": "Jumlah fi’liyah",
+            "c": "Fi’il dan fa’il",
+            "d": "Fi’il dan maf’ul"
+        },
+        "8": {
+            "a": "المَدْرَسَةُ جَمِيْلَةٌُ",
+            "b": "المَدْرَسُ جَمِيْلٌ",
+            "c": "المَدْرَسَ جِمِيْلَةِ",
+            "d": "جَمِيْلَةُ المَدْرَسَةُ"
+        },
+        "9": {
+            "a": "fa'il",
+            "b": "fi'il",
+            "c": "maf'ul",
+            "d": "maf’ul bih"
+        },
+        "10": {
+            "a": "nasobkan",
+            "b": "rafa'kan",
+            "c": "jazemkan",
+            "d": "jerkan"
+        }
+    },
+    {
+        "1": "Fi'il",
+        "2": "فِعِلِ اَمَرْ",
+        "3": "tiga",
+        "4": "اِسِمْ",
+        "5": "dua",
+        "6": "Jumlah fi’liyah",
+        "7": "Mubtada’ dan khobar",
+        "8": "المَدْرَسَةُ جَمِيْلَةٌُ",
+        "9": "fi'il",
+        "10": "nasobkan"
+    }
+]
